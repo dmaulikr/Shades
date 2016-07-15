@@ -1,2 +1,2 @@
 # Shades
-Simple and addictive iPhone game.
+Tap the shaded colour and you're off to your new highscore!
